@@ -1,4 +1,4 @@
-### Restaurant Website developed using React and contains the features of React such as Fetch, Redux, reactstrap, etc.
+### This is a Restaurant Website developed using React and contains the features of React such as Fetch, Redux, reactstrap, etc.
 
 ### Also used React Router for making navigation seamless and efficient.
 
